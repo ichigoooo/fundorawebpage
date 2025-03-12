@@ -1,0 +1,332 @@
+[
+  {
+    "id": "course-001",
+    "title": "Introduction to Web3 Development",
+    "description": "Learn the fundamentals of blockchain and Web3 development, including smart contracts, DApp development, and blockchain architecture.",
+    "price": 5000.0,
+    "duration": "8 weeks",
+    "completionRate": 0.85,
+    "categories": ["Web3", "Blockchain", "Programming"],
+    "imageUrl": "assets/images/courses/web3-course.jpg",
+    "provider": "Blockchain Academy",
+    "status": "not-started",
+    "chapters": [
+      {
+        "id": "chapter-001",
+        "title": "Blockchain Fundamentals",
+        "description": "Understand the basic concepts and working principles of blockchain",
+        "isCompleted": false,
+        "lessons": [
+          {
+            "id": "lesson-001",
+            "title": "What is Blockchain",
+            "description": "Basic concepts and history of blockchain technology",
+            "durationMinutes": 45,
+            "isCompleted": false,
+            "videoUrl": "https://example.com/videos/blockchain-intro.mp4",
+            "contentType": "video"
+          },
+          {
+            "id": "lesson-002",
+            "title": "How Blockchain Works",
+            "description": "Deep dive into the technical details of blockchain",
+            "durationMinutes": 60,
+            "isCompleted": false,
+            "videoUrl": "https://example.com/videos/blockchain-tech.mp4",
+            "contentType": "video"
+          }
+        ]
+      },
+      {
+        "id": "chapter-002",
+        "title": "Smart Contract Development",
+        "description": "Learn how to write smart contracts using Solidity",
+        "isCompleted": false,
+        "lessons": [
+          {
+            "id": "lesson-003",
+            "title": "Solidity Language Basics",
+            "description": "Syntax and basic structure of the Solidity language",
+            "durationMinutes": 55,
+            "isCompleted": false,
+            "videoUrl": "https://example.com/videos/solidity-basics.mp4",
+            "contentType": "video"
+          },
+          {
+            "id": "lesson-004",
+            "title": "Writing Your First Smart Contract",
+            "description": "Create a simple smart contract from scratch",
+            "durationMinutes": 70,
+            "isCompleted": false,
+            "videoUrl": "https://example.com/videos/first-contract.mp4",
+            "contentType": "video"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-002",
+    "title": "Practical AI Application Development",
+    "description": "Learn how to develop artificial intelligence applications using Python and TensorFlow, including machine learning model training and deployment.",
+    "price": 6000.0,
+    "duration": "10 weeks",
+    "completionRate": 0.78,
+    "categories": ["AI", "Machine Learning", "Python"],
+    "imageUrl": "assets/images/courses/ai-course.jpg",
+    "provider": "AI Research Institute",
+    "status": "not-started",
+    "chapters": [
+      {
+        "id": "chapter-003",
+        "title": "Python for Data Science",
+        "description": "Learn Python applications in data science",
+        "isCompleted": false,
+        "lessons": [
+          {
+            "id": "lesson-005",
+            "title": "Python Data Analysis Fundamentals",
+            "description": "Data processing with Pandas and NumPy",
+            "durationMinutes": 50,
+            "isCompleted": false,
+            "videoUrl": "https://example.com/videos/python-data.mp4",
+            "contentType": "video"
+          },
+          {
+            "id": "lesson-006",
+            "title": "Data Visualization Techniques",
+            "description": "Data visualization using Matplotlib and Seaborn",
+            "durationMinutes": 45,
+            "isCompleted": false,
+            "videoUrl": "https://example.com/videos/data-viz.mp4",
+            "contentType": "video"
+          }
+        ]
+      },
+      {
+        "id": "chapter-004",
+        "title": "Machine Learning Models",
+        "description": "Learn common machine learning algorithms and models",
+        "isCompleted": false,
+        "lessons": [
+          {
+            "id": "lesson-007",
+            "title": "Supervised Learning Algorithms",
+            "description": "Detailed explanation of regression and classification algorithms",
+            "durationMinutes": 65,
+            "isCompleted": false,
+            "videoUrl": "https://example.com/videos/supervised-learning.mp4",
+            "contentType": "video"
+          },
+          {
+            "id": "lesson-008",
+            "title": "Introduction to Neural Networks",
+            "description": "Fundamentals of deep learning and neural networks",
+            "durationMinutes": 75,
+            "isCompleted": false,
+            "videoUrl": "https://example.com/videos/neural-networks.mp4",
+            "contentType": "video"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-003",
+    "title": "Professional Nutritionist Certification",
+    "description": "Comprehensive study of nutrition, including meal planning, nutritional assessment, and special populations' nutritional needs to obtain professional nutritionist certification.",
+    "price": 4500.0,
+    "duration": "12 weeks",
+    "completionRate": 0.92,
+    "categories": ["Health", "Nutrition", "Certification"],
+    "imageUrl": "assets/images/courses/nutrition-course.jpg",
+    "provider": "Healthy Living Academy",
+    "status": "not-started",
+    "chapters": [
+      {
+        "id": "chapter-005",
+        "title": "Nutrition Fundamentals",
+        "description": "Understand basic nutrients and dietary principles",
+        "isCompleted": false,
+        "lessons": [
+          {
+            "id": "lesson-009",
+            "title": "Macronutrients",
+            "description": "Functions and requirements of proteins, fats, and carbohydrates",
+            "durationMinutes": 55,
+            "isCompleted": false,
+            "videoUrl": "https://example.com/videos/macronutrients.mp4",
+            "contentType": "video"
+          },
+          {
+            "id": "lesson-010",
+            "title": "Micronutrients",
+            "description": "Functions and sources of vitamins and minerals",
+            "durationMinutes": 50,
+            "isCompleted": false,
+            "videoUrl": "https://example.com/videos/micronutrients.mp4",
+            "contentType": "video"
+          }
+        ]
+      },
+      {
+        "id": "chapter-006",
+        "title": "Meal Planning",
+        "description": "Learn how to create healthy meal plans",
+        "isCompleted": false,
+        "lessons": [
+          {
+            "id": "lesson-011",
+            "title": "Dietary Guidelines",
+            "description": "Comparison and application of various national dietary guidelines",
+            "durationMinutes": 45,
+            "isCompleted": false,
+            "videoUrl": "https://example.com/videos/dietary-guidelines.mp4",
+            "contentType": "video"
+          },
+          {
+            "id": "lesson-012",
+            "title": "Meal Planning for Special Populations",
+            "description": "Creating meal plans for athletes, pregnant women, and the elderly",
+            "durationMinutes": 60,
+            "isCompleted": false,
+            "videoUrl": "https://example.com/videos/special-diets.mp4",
+            "contentType": "video"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-004",
+    "title": "Fitness Trainer Certification Course",
+    "description": "Study exercise science, training program design, and client management to become a professional fitness trainer.",
+    "price": 5500.0,
+    "duration": "16 weeks",
+    "completionRate": 0.88,
+    "categories": ["Fitness", "Sports", "Certification"],
+    "imageUrl": "assets/images/courses/fitness-course.jpg",
+    "provider": "Physical Fitness Academy",
+    "status": "not-started",
+    "chapters": [
+      {
+        "id": "chapter-007",
+        "title": "Exercise Anatomy",
+        "description": "Understanding the human muscular and skeletal systems",
+        "isCompleted": false,
+        "lessons": [
+          {
+            "id": "lesson-013",
+            "title": "Muscular System",
+            "description": "Structure and function of major muscle groups",
+            "durationMinutes": 65,
+            "isCompleted": false,
+            "videoUrl": "https://example.com/videos/muscular-system.mp4",
+            "contentType": "video"
+          },
+          {
+            "id": "lesson-014",
+            "title": "Skeletal System",
+            "description": "Bone structure and joint movement",
+            "durationMinutes": 55,
+            "isCompleted": false,
+            "videoUrl": "https://example.com/videos/skeletal-system.mp4",
+            "contentType": "video"
+          }
+        ]
+      },
+      {
+        "id": "chapter-008",
+        "title": "Training Program Design",
+        "description": "Learn how to design effective training programs",
+        "isCompleted": false,
+        "lessons": [
+          {
+            "id": "lesson-015",
+            "title": "Strength Training Principles",
+            "description": "Basic principles and methods of strength training",
+            "durationMinutes": 70,
+            "isCompleted": false,
+            "videoUrl": "https://example.com/videos/strength-training.mp4",
+            "contentType": "video"
+          },
+          {
+            "id": "lesson-016",
+            "title": "Cardiovascular Training",
+            "description": "Methods and benefits of cardiovascular exercise",
+            "durationMinutes": 60,
+            "isCompleted": false,
+            "videoUrl": "https://example.com/videos/cardio-training.mp4",
+            "contentType": "video"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-005",
+    "title": "Digital Marketing Mastery",
+    "description": "Learn comprehensive digital marketing strategies, including SEO, social media marketing, content marketing, and data analysis.",
+    "price": 4800.0,
+    "duration": "10 weeks",
+    "completionRate": 0.82,
+    "categories": ["Marketing", "Digital", "Business"],
+    "imageUrl": "assets/images/courses/marketing-course.jpg",
+    "provider": "Digital Business School",
+    "status": "not-started",
+    "chapters": [
+      {
+        "id": "chapter-009",
+        "title": "Digital Marketing Fundamentals",
+        "description": "Introduction to key digital marketing concepts",
+        "isCompleted": false,
+        "lessons": [
+          {
+            "id": "lesson-017",
+            "title": "Digital Marketing Landscape",
+            "description": "Overview of digital marketing channels and strategies",
+            "durationMinutes": 50,
+            "isCompleted": false,
+            "videoUrl": "https://example.com/videos/digital-landscape.mp4",
+            "contentType": "video"
+          },
+          {
+            "id": "lesson-018",
+            "title": "Customer Journey Mapping",
+            "description": "Understanding the digital customer journey",
+            "durationMinutes": 55,
+            "isCompleted": false,
+            "videoUrl": "https://example.com/videos/customer-journey.mp4",
+            "contentType": "video"
+          }
+        ]
+      },
+      {
+        "id": "chapter-010",
+        "title": "SEO and Content Marketing",
+        "description": "Learn search engine optimization and content creation strategies",
+        "isCompleted": false,
+        "lessons": [
+          {
+            "id": "lesson-019",
+            "title": "SEO Fundamentals",
+            "description": "Key concepts and techniques in search engine optimization",
+            "durationMinutes": 65,
+            "isCompleted": false,
+            "videoUrl": "https://example.com/videos/seo-basics.mp4",
+            "contentType": "video"
+          },
+          {
+            "id": "lesson-020",
+            "title": "Content Strategy Development",
+            "description": "Creating effective content marketing strategies",
+            "durationMinutes": 60,
+            "isCompleted": false,
+            "videoUrl": "https://example.com/videos/content-strategy.mp4",
+            "contentType": "video"
+          }
+        ]
+      }
+    ]
+  }
+] 
